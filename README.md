@@ -12,7 +12,7 @@ A passionate software developer from **Turkey**
 
 
 
-📬 Reach me on **[email](yasin.gooktepe@gmail.com)**
+📬 Reach me on *yasin.gooktepe@gmail.com*
 
 
 ### 🔗 Social
