@@ -44,11 +44,11 @@ A passionate software developer from **Turkey**
 ### 🚀 Stats
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ygoktepe">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygoktepe&show_icons=true&theme=radical" height="205" />
   </a>
   &nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/ygoktepe">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygoktepe&theme=radical" />
   </a>
 </p>
